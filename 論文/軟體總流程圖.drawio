@@ -1,0 +1,58 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2">
+  <diagram name="第 1 页" id="_bkoZLCl7oWKk0_S4-1U">
+    <mxGraphModel dx="1429" dy="636" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gVXb4Ze4I-_IFNVF83Ty-15" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#FFFFFF;fontColor=#333333;strokeColor=#666666;fontStyle=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="380" width="350" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="gVXb4Ze4I-_IFNVF83Ty-14" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#FFFFFF;fontColor=#333333;strokeColor=#666666;fontStyle=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="380" width="350" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="gVXb4Ze4I-_IFNVF83Ty-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;strokeWidth=1;" edge="1" parent="1" source="gVXb4Ze4I-_IFNVF83Ty-3" target="gVXb4Ze4I-_IFNVF83Ty-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gVXb4Ze4I-_IFNVF83Ty-3" value="拍攝點雲圖" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF99;fontColor=#333333;strokeColor=none;fontStyle=1;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="380" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gVXb4Ze4I-_IFNVF83Ty-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;strokeWidth=1;" edge="1" parent="1" source="gVXb4Ze4I-_IFNVF83Ty-5" target="gVXb4Ze4I-_IFNVF83Ty-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="480" />
+              <mxPoint x="720" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gVXb4Ze4I-_IFNVF83Ty-5" value="計算未來坡度" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FF99;fontColor=#333333;strokeColor=none;fontStyle=1;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="570" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gVXb4Ze4I-_IFNVF83Ty-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;strokeWidth=1;" edge="1" parent="1" source="gVXb4Ze4I-_IFNVF83Ty-7" target="gVXb4Ze4I-_IFNVF83Ty-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1100" y="480" />
+              <mxPoint x="1100" y="610" />
+              <mxPoint x="340" y="610" />
+              <mxPoint x="340" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gVXb4Ze4I-_IFNVF83Ty-7" value="控制平台角度" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FF99;fontColor=#333333;strokeColor=none;fontStyle=1;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="920" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gVXb4Ze4I-_IFNVF83Ty-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;strokeWidth=1;" edge="1" parent="1" source="gVXb4Ze4I-_IFNVF83Ty-8" target="gVXb4Ze4I-_IFNVF83Ty-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gVXb4Ze4I-_IFNVF83Ty-8" value="平台角度陣列" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#FFFF99;fontColor=#333333;strokeColor=none;fontStyle=1;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="750" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gVXb4Ze4I-_IFNVF83Ty-16" value="視覺" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=none;fontSize=20;fontColor=#333333;strokeColor=none;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="512" y="335" width="58" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="gVXb4Ze4I-_IFNVF83Ty-17" value="平台" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=none;fontSize=20;fontColor=#333333;strokeColor=none;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="876" y="335" width="58" height="36" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,83 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2">
+  <diagram name="Page-1" id="16e2658f-23c8-b752-8be9-c03fbebb8bbe">
+    <mxGraphModel dx="2529" dy="636" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jj3I6xXcpA3nV5aw2deL-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;strokeWidth=2;fontSize=21;fillColor=none;fontColor=#000000;strokeColor=#000000;" parent="1" source="jj3I6xXcpA3nV5aw2deL-1" target="jj3I6xXcpA3nV5aw2deL-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jj3I6xXcpA3nV5aw2deL-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;strokeWidth=2;fontSize=21;fillColor=none;fontColor=#000000;strokeColor=#000000;" parent="1" source="jj3I6xXcpA3nV5aw2deL-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520.5" y="351" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jj3I6xXcpA3nV5aw2deL-1" value="ESP32" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fontStyle=1;fillColor=#FFF4C3;fontColor=#000000;strokeColor=none;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="460" y="233" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jj3I6xXcpA3nV5aw2deL-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;strokeWidth=2;fontSize=21;fillColor=none;fontColor=#000000;strokeColor=#000000;" parent="1" source="jj3I6xXcpA3nV5aw2deL-2" target="jj3I6xXcpA3nV5aw2deL-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jj3I6xXcpA3nV5aw2deL-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;strokeWidth=2;fontSize=21;fillColor=none;fontColor=#000000;strokeColor=#000000;" parent="1" source="jj3I6xXcpA3nV5aw2deL-2" target="jj3I6xXcpA3nV5aw2deL-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jj3I6xXcpA3nV5aw2deL-2" value="Jetson Orin NX" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fontStyle=1;fillColor=#FFF4C3;fontColor=#000000;strokeColor=none;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="461" y="110" width="118" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jj3I6xXcpA3nV5aw2deL-4" value="&lt;span&gt;L515&lt;/span&gt;&lt;div&gt;&lt;span&gt;深度相機&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fillColor=#E0F0FF;fontSize=21;fontColor=#000000;strokeColor=none;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="670" y="90" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="jj3I6xXcpA3nV5aw2deL-5" value="伺服馬達A" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fontStyle=1;fillColor=#FFF4C3;fontColor=#000000;strokeColor=none;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="300" y="468" width="130" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="jj3I6xXcpA3nV5aw2deL-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;strokeWidth=2;fontSize=21;fillColor=none;fontColor=#000000;strokeColor=#000000;" parent="1" target="jj3I6xXcpA3nV5aw2deL-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520.5" y="431" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jj3I6xXcpA3nV5aw2deL-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1;strokeWidth=2;fontSize=21;fillColor=none;fontColor=#000000;strokeColor=#000000;" parent="1" target="jj3I6xXcpA3nV5aw2deL-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="458" y="390.9999999999998" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jj3I6xXcpA3nV5aw2deL-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1;strokeWidth=2;fontSize=21;fillColor=none;fontColor=#000000;strokeColor=#000000;" parent="1" target="jj3I6xXcpA3nV5aw2deL-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="583" y="390.9999999999998" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jj3I6xXcpA3nV5aw2deL-10" value="降壓板" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=21;fillColor=#E0F0FF;fontStyle=1;fontColor=#000000;strokeColor=none;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="40" y="234" width="145" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="jj3I6xXcpA3nV5aw2deL-11" value="&lt;span&gt;旋轉編碼器&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fillColor=#E0F0FF;fontSize=21;fontColor=#000000;strokeColor=none;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="670" y="213" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="jj3I6xXcpA3nV5aw2deL-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;strokeWidth=2;fontSize=21;fillColor=none;fontColor=#000000;strokeColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jj3I6xXcpA3nV5aw2deL-12" target="AwlY9K_6otOax6unXKZm-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="145" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jj3I6xXcpA3nV5aw2deL-12" value="電池" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fontStyle=1;fillColor=#FFF4C3;fontColor=#000000;strokeColor=none;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="-160" y="110" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jj3I6xXcpA3nV5aw2deL-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;strokeWidth=2;fontSize=21;fillColor=none;fontColor=#000000;strokeColor=#000000;" parent="1" source="jj3I6xXcpA3nV5aw2deL-13" target="jj3I6xXcpA3nV5aw2deL-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jj3I6xXcpA3nV5aw2deL-13" value="電池" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fontStyle=1;fillColor=#FFF4C3;fontColor=#000000;strokeColor=none;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="-160" y="233" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jj3I6xXcpA3nV5aw2deL-22" value="伺服馬達B" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fontStyle=1;fillColor=#FFF4C3;fontColor=#000000;strokeColor=none;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="455" y="468" width="130" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="jj3I6xXcpA3nV5aw2deL-23" value="伺服馬達C" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fontStyle=1;fillColor=#FFF4C3;fontColor=#000000;strokeColor=none;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="610" y="468" width="130" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="AwlY9K_6otOax6unXKZm-2" value="穩壓器" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=21;fillColor=#E0F0FF;fontStyle=1;fontColor=#000000;strokeColor=none;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="43" y="111.5" width="145" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="AwlY9K_6otOax6unXKZm-6" value="PCA9685&lt;div&gt;馬達控制板&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fontStyle=1;fillColor=#E0F0FF;fontColor=#000000;strokeColor=none;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="460" y="351" width="120" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
